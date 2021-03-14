@@ -4,5 +4,4 @@ Run the ngroket.py to send data to the listening service. Writes out the IV/Secr
 
 Run decrypter.py to put everything together from dataout and get the flag!
 
-
-https://imgur.com/HaqINdN
+![Alt Text](https://i.imgur.com/HaqINdN.gif)
